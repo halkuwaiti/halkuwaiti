@@ -1,8 +1,6 @@
-# Hi, I'm Hamad
+# Hello, I'm Hamad
 
-I study Computer Engineering at Boston University (Class of 2027). I work on security and AI, mostly by finding where a system is exposed, working out what the law or the threat actually requires, and building the thing that closes the gap.
-
-I'm from the UAE and I plan to build my company there.
+I study Computer Engineering at Boston University (Class of 2027). I work on security, AI and robotics.
 
 ---
 
@@ -11,6 +9,7 @@ I'm from the UAE and I plan to build my company there.
 - **Offensive security.** National champion at the ISNR Code Breaker CTF 2026 in Abu Dhabi with team MYTHOS, 34 of 41 challenges solved in the final.
 - **Privacy and compliance as software.** I build tools that turn data protection law into checks a small business can run.
 - **Secure AI.** How to use language models in security work without letting them make the decisions that matter.
+- **Robots and hardware.** Rover autonomy in ROS 2 with BU's Mars Rover club, FPGA and Verilog design in class, and embedded work on the ESP32.
 
 ---
 
