@@ -21,6 +21,8 @@ I study Computer Engineering at Boston University (Class of 2027).
 | [**SecureCode Analyzer**](https://github.com/halkuwaiti/securecode-analyzer) | EC 521 team project. Measured how often LLM-written code ships with security holes (360 samples, 3 models, 3 languages), then built a local tool that fixes them. 94% of found issues resolved within three fix rounds. | Public |
 | [**MIPS CPU in Verilog**](https://github.com/halkuwaiti/mips-cpu-verilog) | A 32-bit processor built up from the arithmetic unit to a 5-stage pipelined CPU, with forwarding I added so back-to-back instructions get the right values. EC 413 labs. | Public |
 | [**CTF write-ups**](https://github.com/halkuwaiti/ctf-writeups) | How I solved the hardest challenges from the ISNR Code Breaker 2026 national final, across binary exploitation, forensics, reversing and web. | Public |
+| [**Digital Lock**](https://github.com/halkuwaiti/digital-lock) | A hardware combination lock on the Nexys 4 DDR FPGA in Verilog. Set a code, arm it, and three wrong tries lock you out. EC 311. | Public |
+| [**Platform Brawler**](https://github.com/halkuwaiti/platform-brawler) | A local two-player platform fighter built in Rust with the Bevy engine. Knock the other player off the stage. EC 327. | Public |
 | **Amanah** | Helps UAE small businesses comply with the Personal Data Protection Law. A rule engine covers all 31 articles of the law, and AI only writes the documents around conclusions the engine has already reached. Accepted into CyberE71 Cohort 3, the UAE Cyber Security Council's incubator. | Private |
 | **MIRAGE** | A working demonstrator for air-defence coordination with a bilingual Arabic and English voice assistant. Shown to UAE police and military officers at ISNR Abu Dhabi 2026. | Private |
 
