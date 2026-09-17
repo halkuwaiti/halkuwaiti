@@ -1,6 +1,6 @@
 # Hello, I'm Hamad
 
-I study Computer Engineering at Boston University (Class of 2027). I enjoy working on security, AI and robotics.
+I study Computer Engineering at Boston University (Class of 2027).
 
 ---
 
