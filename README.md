@@ -19,6 +19,7 @@ I study Computer Engineering at Boston University (Class of 2027).
 |---|---|---|
 | [**Cyber Quest**](https://github.com/halkuwaiti/cyber-quest) | A cyber-awareness platformer for children, five worlds and 45 questions. Played by children at Make it in the Emirates 2026. | Public · [play it](https://halkuwaiti.github.io/cyber-quest/) |
 | [**SecureCode Analyzer**](https://github.com/halkuwaiti/securecode-analyzer) | EC 521 team project. Measured how often LLM-written code ships with security holes (360 samples, 3 models, 3 languages), then built a local tool that fixes them. 94% of found issues resolved within three fix rounds. | Public |
+| [**MIPS CPU in Verilog**](https://github.com/halkuwaiti/mips-cpu-verilog) | A 32-bit processor built up from the arithmetic unit to a 5-stage pipelined CPU, with forwarding I added so back-to-back instructions get the right values. EC 413 labs. | Public |
 | **Amanah** | Helps UAE small businesses comply with the Personal Data Protection Law. A rule engine covers all 31 articles of the law, and AI only writes the documents around conclusions the engine has already reached. Accepted into CyberE71 Cohort 3, the UAE Cyber Security Council's incubator. | Private |
 | **MIRAGE** | A working demonstrator for air-defence coordination with a bilingual Arabic and English voice assistant. Shown to UAE police and military officers at ISNR Abu Dhabi 2026. | Private |
 
